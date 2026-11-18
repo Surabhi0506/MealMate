@@ -14,3 +14,10 @@ People who want to lose weight often struggle to plan their daily meals while co
 At the same time, nutritionists need an organised platform to manage multiple customers, maintain their dietary information, and provide personalised meal plans.
 
 MealMate aims to address these challenges by providing a centralised platform connecting customers with nutritionists.
+
+The system also helps customers keep track of their weekly meal plans and follow their dietary goals in an organised manner.
+
+It allows nutritionists to manage customer details, understand their food preferences, and update meal plans whenever required.
+
+Overall, MealMate aims to simplify communication between customers and nutritionists while supporting better meal-planning management.
+
