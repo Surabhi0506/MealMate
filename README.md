@@ -49,3 +49,17 @@ Overall, MealMate aims to simplify communication between customers and nutrition
 - Include progress tracking for customers.
 - Add appointment scheduling between customers and nutritionists.
 - Provide recipe recommendations based on dietary preferences.
+
+## System Design and Documentation
+
+### 1. Business Use Case
+Explains the interaction between customers and nutritionists
+and the major business processes supported by MealMate.
+
+### 2. Entity Relationship Diagram (ER Diagram)
+Represents the database entities, their attributes,
+relationships and cardinalities.
+
+### 3. Data Dictionary
+Provides details of the database tables, attributes,
+data types, primary keys and foreign keys.
